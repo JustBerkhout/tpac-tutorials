@@ -1,0 +1,16 @@
+# tpac-tutorials
+
+TPAC specific tutorials in markdown format compatible with the framework established for tutorials.ubuntu.com.
+
+# install wherever docker runs
+1. $ git clone https://github.com/canonical-web-and-design/tutorials.ubuntu.com.git
+1. $ cd tutorials.ubuntu.com
+1. $ git clone git@gitlab.com:hoolio/tpac-tutorials.git -d ./tutorials/tpac
+1. $ cp ./tutorials/tpac/codelabs-index.html ./src/codelabs-index.html
+1. $ ./run serve tutorials/tpac
+1. browse to port 8016, eg http://localhost:8016
+
+# attributions
+this content has been taken from the original tutorials.ubuntu.com and modified for TPAC use:
+1. command-line-for-begginers
+1. ssh-keygen-windows
