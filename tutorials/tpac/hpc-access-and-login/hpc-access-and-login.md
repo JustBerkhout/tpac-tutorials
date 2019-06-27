@@ -9,7 +9,7 @@ published: 2019-05-14
 
 ---
 
-# Get a HPC account and ssh via jumpbox.tpac.org.au
+# Getting a HPC account and logging in using ssh
 Duration: 1:00
 
 ## Overview
@@ -17,20 +17,14 @@ Duration: 1:00
 TPAC have a range of high High Performance Computing (HPC) clusters for various uses.  When you request a HPC account the administrators will talk to you about your project and help you select the right cluster for you.
 
 ### What you'll learn
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* How to get a HPC account at TPAC
+* How to connect using ssh
+* How to authenticate
 
 ### What you'll need
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+You'll need to have completed these previous tutorials:
+* [chosing-a-terminal-emulator](./tutorials/chosing-a-terminal-emulator)
 
 ## Overview of HPC systems
 Duration: 3:00
