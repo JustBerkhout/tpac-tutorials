@@ -1,15 +1,15 @@
 ---
-id: basic-hpc-commands
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-categories: hpc
-tags: tutorial,ssh,hpc,terminal
-difficulty: 3
+id: mass-storage-on-hpc
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+categories: storage
+tags: tutorial,storage,hpc
+difficulty: 5
 status: draft
 published: 2019-05-14
 
 ---
 
-# Basic HPC commands
+# Understanding mass storage from the perspective of HPC
 Duration: 1:00
 
 ## Overview

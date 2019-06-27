@@ -1,7 +1,7 @@
 ---
 id: hpc-access-and-login
 summary: How to request an account on the TPAC High Performance Computing (HPC) clusters.  How to login through jumpbox.tpac.org.au
-categories: desktop
+categories: hpc
 tags: tutorial,ssh,hpc,terminal,account
 difficulty: 1
 status: draft

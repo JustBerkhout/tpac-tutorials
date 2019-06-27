@@ -1,15 +1,15 @@
 ---
-id: basic-hpc-commands
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-categories: hpc
-tags: tutorial,ssh,hpc,terminal
+id: how-to-tpac-vdi
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+categories: vdi
+tags: tutorial,vdi,nectar
 difficulty: 3
 status: draft
 published: 2019-05-14
 
 ---
 
-# Basic HPC commands
+# How to use TPAC VDI
 Duration: 1:00
 
 ## Overview

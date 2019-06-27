@@ -1,15 +1,15 @@
 ---
-id: basic-hpc-commands
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-categories: hpc
-tags: tutorial,ssh,hpc,terminal
-difficulty: 3
+id: mass-storage-on-nectar
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+categories: storage
+tags: tutorial,storage,nectar
+difficulty: 2
 status: draft
 published: 2019-05-14
 
 ---
 
-# Basic HPC commands
+# How to add TPAC mass storage to your Nectar instance
 Duration: 1:00
 
 ## Overview

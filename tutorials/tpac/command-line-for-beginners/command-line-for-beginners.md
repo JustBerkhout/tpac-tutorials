@@ -1,7 +1,7 @@
 ---
 id: command-line-for-beginners
 summary: Learn about the Linux command line and some useful basic commands
-categories: desktop
+categories: linux
 tags: command line, terminal, console, shell, prompt, commands, bash
 difficulty: 1
 status: published
