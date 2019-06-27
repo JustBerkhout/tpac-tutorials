@@ -1,17 +1,24 @@
 ---
-id: mass-storage-on-nectar
+id: how-to-tpac-vdi
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
 categories: storage
-tags: tutorial,storage,nectar
+tags: tutorial,vdi,nectar
 difficulty: 2
 status: draft
 published: 2019-05-14
 
 ---
 
-# How to add TPAC mass storage to your Nectar instance
+# How to use TPAC VDI
 Duration: 1:00
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The TPAC Virtual Desktop Infrastructure (VDI) Cloud is a cloud compute based virtual desktop platform accessible from a web browser. The virtual desktop provides access to common tools and access to ample storage. Data and analyses can be shared with others inside the platform. It has been designed to be your second desktop with 24/7 availability.
+
+### What you'll learn
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet

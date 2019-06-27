@@ -16,6 +16,20 @@ Duration: 1:00
 
 SSH, the secure shell, is often used to access a terminal on remote UNIX/Linux systems.  As the name suggests this is secure (encrypted) and it's used for very many things in the Linux world.
 
+### What you'll learn
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+
+### What you'll need
+
+* A computer ..
+
+## What is a terminal (??)
+Duration: 1:00
+
 OSX and Linux users have native terminals and as such this tutorial is largely irrelevant for them; however some interest might remain in the history of terminals, and my choice of some alternative terminal emulators.
 
 However, at the time of writing, Windows users have no native terminal and so have to install a 3rd party one.  For various reasons beginning users are often told to use [putty][putty].

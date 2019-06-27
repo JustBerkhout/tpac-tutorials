@@ -16,6 +16,25 @@ Duration: 1:00
 
 TPAC have a range of high High Performance Computing (HPC) clusters for various uses.  When you request a HPC account the administrators will talk to you about your project and help you select the right cluster for you.
 
+### What you'll learn
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+
+### What you'll need
+
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+* Lorem ipsum dolor sit amet
+
+## Overview of HPC systems
+Duration: 3:00
+
 ![TPAC HPC Facilities (May 2019)](/images/tpac-hpc-facilities.png)
 
 All systems are provided:
