@@ -3,7 +3,7 @@ id: nectar-keypairs
 summary: Understanding Public-Private Keypairs in the Nectar Research Cloud.
 categories: nectar
 tags: ssh, keypair, authentication
-difficulty: 1
+difficulty: 2
 status: draft
 feedback_url: https://github.com/JustBerkhout/tutorials.ubuntu.com/issues
 published: 2019-05-07

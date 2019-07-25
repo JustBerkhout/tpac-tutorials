@@ -3,7 +3,7 @@ id: nectar-sec-groups-101
 summary: Get ready to launch with the bare minimum ssh Security Group for your Nectar instance.
 categories: nectar
 tags: security, firewall
-difficulty: 1
+difficulty: 2
 status: draft
 feedback_url: https://github.com/JustBerkhout/tutorials.ubuntu.com/issues
 published: 2019-05-13

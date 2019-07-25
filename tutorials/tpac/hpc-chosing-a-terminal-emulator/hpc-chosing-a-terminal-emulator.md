@@ -3,13 +3,13 @@ id: hpc-chosing-a-terminal-emulator
 summary: What is a terminal emulator, how to chose one for your operating system.  Why putty is a poor choice for a beginning Linux user.
 categories: hpc
 tags: tutorial,ssh,installation,windows,osx,ubuntu,terminal
-difficulty: 2
+difficulty: 1
 status: published
 published: 2019-05-14
 
 ---
 
-# Which SSH client? (TLDR: not putty)"
+# Which SSH client?
 Duration: 1:00
 
 ## Overview

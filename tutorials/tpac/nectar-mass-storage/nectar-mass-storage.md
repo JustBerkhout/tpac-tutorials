@@ -3,7 +3,7 @@ id: nectar-mass-storage
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
 categories: nectar
 tags: storage
-difficulty: 3
+difficulty: 4
 status: draft
 published: 2019-05-14
 

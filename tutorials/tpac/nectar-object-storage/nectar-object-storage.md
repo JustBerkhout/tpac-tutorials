@@ -4,7 +4,7 @@ id: nectar-object-storage
 summary: Using Swift, OpenStack object storage
 categories: nectar
 tags: s3, storage, cloud
-difficulty: 3
+difficulty: 4
 status: draft
 feedback_url: https://github.com/JustBerkhout/tutorials.ubuntu.com/issues
 published: 2019-07-14
