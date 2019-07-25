@@ -25,6 +25,12 @@ TPAC content can be found in the ./tutorials/tpac folder and details on how to a
 
 This site is read only for contributors, however it is intended that this site will be forked to a TPAC repository prior to production deployment.
 
+## making sure categores work
+quick hack to list the categories used in the tutorials
+`find tutorials/tpac/ |grep .md | xargs grep categories: | awk '{print $2}' | sort | uniq`
+
+then add them to the search box
+
 # Attributions
 this content has been taken from the original tutorials.ubuntu.com and modified for TPAC use:
 1. command-line-for-begginers

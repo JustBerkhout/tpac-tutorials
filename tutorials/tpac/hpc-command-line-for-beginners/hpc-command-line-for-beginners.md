@@ -1,9 +1,9 @@
 ---
-id: command-line-for-beginners
+id: hpc-command-line-for-beginners
 summary: Learn about the Linux command line and some useful basic commands
-categories: linux
+categories: hpc
 tags: command line, terminal, console, shell, prompt, commands, bash
-difficulty: 1
+difficulty: 2
 status: published
 feedback_url: https://github.com/canonical-websites/tutorials.ubuntu.com/issues
 published: 2018-07-08
@@ -11,7 +11,7 @@ author: Canonical Web Team <webteam@canonical.com>
 
 ---
 
-# The Linux command line for beginners
+# The command line for beginners
 
 ## Overview
 Duration: 1:00

@@ -1,15 +1,15 @@
 ---
-id: mass-storage-on-hpc
+id: nectar-mass-storage
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-categories: storage
-tags: tutorial,storage,hpc
-difficulty: 5
+categories: nectar
+tags: storage
+difficulty: 3
 status: draft
 published: 2019-05-14
 
 ---
 
-# Mass storage on HPC
+# Connecting TPAC storage to Nectar
 Duration: 1:00
 
 ## Overview

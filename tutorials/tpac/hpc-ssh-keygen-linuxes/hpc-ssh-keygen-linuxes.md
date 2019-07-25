@@ -1,9 +1,9 @@
 ---
-id: ssh-keygen-linuxes
+id: hpc-ssh-keygen-linuxes
 summary: Use appropriate tools to connect to remote computers using SSH.  Generate SSH keys and install SSH keys for better security.
-categories: desktop
-tags: tutorial,ssh,installation,windows,osx,ubuntu,terminal
-difficulty: 2
+categories: hpc
+tags: ssh, keypair, authentication
+difficulty: 3
 status: published
 published: 2019-05-14
 

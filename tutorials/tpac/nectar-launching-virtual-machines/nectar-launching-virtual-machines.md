@@ -4,7 +4,7 @@ id: launching-virtual-machines
 summary: Launching a virtual machine using the Nectar Dashboard and the launching dialog
 categories: nectar
 tags: dashboard, launching
-difficulty: 1
+difficulty: 2
 status: draft
 feedback_url: https://github.com/JustBerkhout/tutorials.ubuntu.com/issues
 published: 2013-05-14

@@ -1,7 +1,7 @@
 ---
 id: how-to-tpac-vdi
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-categories: storage
+categories: vdi
 tags: tutorial,vdi,nectar
 difficulty: 2
 status: draft

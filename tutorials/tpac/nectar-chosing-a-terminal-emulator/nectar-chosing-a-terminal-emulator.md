@@ -1,7 +1,7 @@
 ---
-id: chosing-a-terminal-emulator
+id: nectar-chosing-a-terminal-emulator
 summary: What is a terminal emulator, how to chose one for your operating system.  Why putty is a poor choice for a beginning Linux user.
-categories: linux
+categories: nectar
 tags: tutorial,ssh,installation,windows,osx,ubuntu,terminal
 difficulty: 1
 status: published
