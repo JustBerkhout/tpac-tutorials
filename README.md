@@ -29,9 +29,13 @@ This site is read only for contributors, however it is intended that this site w
 quick hack to list the categories used in the tutorials
 `find tutorials/tpac/ |grep .md | xargs grep categories: | awk '{print $2}' | sort | uniq`
 
-then add them to the search box
+then add them to the search box in src/elements/tutorials-filters.html
 
 # Attributions
 this content has been taken from the original tutorials.ubuntu.com and modified for TPAC use:
 1. command-line-for-begginers
 1. ssh-keygen-windows
+
+TO DO:
+1. Fix color of toolbar within the actual tutorials.
+1. Clone filesystem content from hpc-access-and-login to hpc-mass-storage and expand the latter
